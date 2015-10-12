@@ -1,3 +1,5 @@
+#How to use Git and GitHub for the course submissions
+
 Your repository link will look like https://github.com/spl-sem/YourName and will already have the necessary folder structure in it.
 
 You should follow the following steps to work with your repository (all commands should be executed on the terminal):
