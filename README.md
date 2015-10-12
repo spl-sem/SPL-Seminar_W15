@@ -19,7 +19,7 @@ In this course, you will read both SPL background and state-of-the-art papers to
 This is a discussion seminar with weekly meetings. In each meeting, we discuss a scientific article. The following weekly activities are required:
 
 - Reading a scientific article
-- Writing a short summary (max. 1/2 page)
+- Writing a short summary (around 1/2 page)
 - Active participation in the discussion of the content
 
 In addition to the weekly activities, a final project consisting of a 4-page research paper and a presentation that discuss one related topic of your choice is required. Your project presents an open-problem you have identified through the papers read in the course and includes a potential solution. You will be required to present your paper at the end of the course.
