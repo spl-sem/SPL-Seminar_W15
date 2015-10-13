@@ -1,3 +1,9 @@
+repoName=$1
+
+git clone https://github.com/spl-sem/$repoName
+
+cd $repoName
+
 while read line; do
   mkdir $line
   echo "#Paper summary for $line">>$line/README.md
